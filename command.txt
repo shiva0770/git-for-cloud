@@ -1,5 +1,5 @@
- 1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\08d4889f9e\resources\app\out\vs\workbench\contrib\terminal\common...
-   2 & C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Admin/git for cloud/testing .py"                       
+
+  
    3 python testing.py                                                                                                                    
    4 ls                                                                                                                                   
    5 python testing .py                                                                                                                   
@@ -42,10 +42,4 @@
   42 git restor testing.py                                                                                                                
   43 git restore testing.py                                                                                                               
   44 git status                                                                                                                         
-
-  Id CommandLine                                                                                                                          
-  -- -----------                                                                                                                          
-   1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\645f29cc31\resources\app\out\vs\workbench\contrib\terminal\common...
-   2 git status                                                                                                                           
-   3 history                                                                                                                              
-   4 git history 
+  
