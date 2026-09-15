@@ -43,3 +43,9 @@
   43 git restore testing.py                                                                                                               
   44 git status                                                                                                                         
 
+  Id CommandLine                                                                                                                          
+  -- -----------                                                                                                                          
+   1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\645f29cc31\resources\app\out\vs\workbench\contrib\terminal\common...
+   2 git status                                                                                                                           
+   3 history                                                                                                                              
+   4 git history 
