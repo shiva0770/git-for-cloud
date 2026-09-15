@@ -1,0 +1,45 @@
+ 1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\08d4889f9e\resources\app\out\vs\workbench\contrib\terminal\common...
+   2 & C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Admin/git for cloud/testing .py"                       
+   3 python testing.py                                                                                                                    
+   4 ls                                                                                                                                   
+   5 python testing .py                                                                                                                   
+   6 git inti                                                                                                                             
+   7 git init                                                                                                                             
+   8 ls -a                                                                                                                                
+   9 dir -a                                                                                                                               
+  10 dir                                                                                                                                  
+  11 git status                                                                                                                           
+  12 git status                                                                                                                           
+  13 ls                                                                                                                                   
+  14 git status                                                                                                                           
+  15 git add testing.py                                                                                                                   
+  16 git status                                                                                                                           
+  17 git add "testing .py"                                                                                                                
+  18 git status                                                                                                                           
+  19 git rm "testing .py"                                                                                                                 
+  20 git rm --cached "testing.py"                                                                                                         
+  21 git rm --cached "testing.py"                                                                                                         
+  22 git rm --cached "testing .py"                                                                                                        
+  23 git status                                                                                                                           
+  24 git add "testing.py"                                                                                                                 
+  25 git add "testing.py"                                                                                                                 
+  26 git rm --cached "testing.py"                                                                                                         
+  27 git add "testing.py"                                                                                                                 
+  28 git commit -m "add it"                                                                                                               
+  29 git status                                                                                                                           
+  30 git add "testing.py"                                                                                                                 
+  31 git commit -m "add it"                                                                                                               
+  32 git config --global user.name "Admin"                                                                                                
+  33 git config --global user.email "xyz20060044@gmail.com"                                                                               
+  34 git commit -m "Initial commit"                                                                                                       
+  35 git status                                                                                                                           
+  36 rm testing.py                                                                                                                        
+  37 ls                                                                                                                                   
+  38 ls                                                                                                                                   
+  39 dir                                                                                                                                  
+  40 ls                                                                                                                                   
+  41 git status                                                                                                                           
+  42 git restor testing.py                                                                                                                
+  43 git restore testing.py                                                                                                               
+  44 git status                                                                                                                         
+
