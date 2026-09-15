@@ -42,4 +42,9 @@
   42 git restor testing.py                                                                                                                
   43 git restore testing.py                                                                                                               
   44 git status                                                                                                                         
+<<<<<<< HEAD
   
+=======
+
+     sclkdgjfkjdhdfklbjfgjerki
+>>>>>>> a086f9e2b7136761ada90e0632377c26c4669b89
